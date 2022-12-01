@@ -129,3 +129,4 @@ console.log("Expected output of filterLongWords(['Hello','World!','Hi'],4) is '[
 console.log("Expected output of filterLongWords(['Hello','World!','Hi'],4) is '['World!']  " + myFunctionTest(JSON.stringify(["World!"]), JSON.stringify(filterLongWords(["Hello","World!","Hi"],4))));
 
 jsfiddle();
+
